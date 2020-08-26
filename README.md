@@ -10,7 +10,7 @@ LaraSail is a CLI tool for Laravel to help you Sail the Servers of the DigitalOc
 
 You'll need a DigitalOcean Account before getting started ([Signup here](https://m.do.co/c/6e2fb7e2925f)), then you'll need to create a New Droplet. Make sure to select Ubuntu Server:
 
-<p align="center"><img src="https://s3.amazonaws.com/larasail/ubuntu-server.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rampall/larasail-centos/master/centos.jpg"></p>
 
 ## Installation
 
